@@ -39,7 +39,7 @@ Using **Python**, I developed a robust analytical pipeline to transform raw data
 ---
 
 ## 🧰 Tools Used
-`Python` `Pandas` `Statsmodels (SARIMAX)` `Matplotlib/Seaborn` `Streamlit/Plotly`
+`Python` `Pandas` `Statsmodels (SARIMAX)` `Matplotlib/Seaborn` `Streamlit/Plotly` `Microsoft Powerbi` 
 
 ---
 *Bridging Data Science and Economic Policy for a more resilient Pakistan.*
